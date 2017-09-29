@@ -15,3 +15,9 @@
 ## Grupo 3. La profesión del periodista
 
 <!-- aquí el listado de miembros del grupo 3 -->
+
+
+## Grupo 4. 
+
+-María Jaén
+-Rocío Franco
