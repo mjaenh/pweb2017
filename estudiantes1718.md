@@ -21,7 +21,7 @@
 - Ramírez Rezola, Xabier
 - [Santamaría Fernández, Endika](http://endikasantamaria1.github.io)
 
-## Grupo 4. Diversidad Cultural
+## [Grupo 4. Diversidad Cultural](https://github.com/DeustoPWEB/pweb-grupo-4)
 <!-- aquí el listado de miembros del grupo 4 -->
 - [Jaén Huete, María](http://mjaenh.github.io)
 - [Franco Gómez, Rocío](http://rfranco.github.io)
