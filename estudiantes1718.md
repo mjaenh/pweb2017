@@ -5,7 +5,7 @@
 
 ## Grupo 1. Formas de ocio
 <!-- aquí el listado de miembros del grupo 1 -->
-- Barriuso Celis, Ander
+- :ballot_box_with_check: Barriuso Celis, Ander
 
 ## [Grupo 2. Igualdad de género](https://github.com/DeustoPWEB/pweb-grupo-2)
 <!-- aquí el listado de miembros del grupo 2 -->
@@ -17,15 +17,15 @@
 ## [Grupo 3. La profesión del periodista](https://github.com/DeustoPWEB/pweb-grupo-3)
 <!-- aquí el listado de miembros del grupo 3 -->
 - [Arambarri Arsuaga, Roque](htpp://roquearambarri33.github.io)
-- [Barreto Barroso, Beñat](http://barreto21.github.io)
-- [Bermudez Sandín, Inaxio](http://inaxiobermudez.github.io)
-- [Ramírez Rezola, Xabier](http://xabierramirez.github.io)
-- [Santamaría Fernández, Endika](http://endikasantamaria1.github.io)
+- :ballot_box_with_check: [Barreto Barroso, Beñat](http://barreto21.github.io)
+- :ballot_box_with_check: [Bermudez Sandín, Inaxio](http://inaxiobermudez.github.io)
+- :ballot_box_with_check: [Ramírez Rezola, Xabier](http://xabierramirez.github.io)
+- :ballot_box_with_check: [Santamaría Fernández, Endika](http://endikasantamaria1.github.io)
 
 ## Grupo 4. Diversidad Cultural
 <!-- aquí el listado de miembros del grupo 4 -->
-- [Jaén Huete, María](http://mjaenh.github.io)
-- [Franco Gómez, Rocío](http://rfranco.github.io)
+- :ballot_box_with_check: [Jaén Huete, María](http://mjaenh.github.io)
+- :ballot_box_with_check: [Franco Gómez, Rocío](http://rfranco.github.io)
 
 
 :ballot_box_with_check: Quienes ya habéis recogido la pegatina :wink:
