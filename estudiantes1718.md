@@ -5,6 +5,7 @@
 
 ## Grupo 1. Formas de ocio
 <!-- aquí el listado de miembros del grupo 1 -->
+- Cilveti Martínez, Borja
 
 
 ## [Grupo 2. Igualdad de género](https://github.com/DeustoPWEB/pweb-grupo-2)
