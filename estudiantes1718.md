@@ -5,6 +5,7 @@
 
 ## Grupo 1. Formas de ocio
 <!-- aquí el listado de miembros del grupo 1 -->
+- :ballot_box_with_check: Cilveti Martínez, Borja
 - :ballot_box_with_check: Barriuso Celis, Ander
 
 ## [Grupo 2. Igualdad de género](https://github.com/DeustoPWEB/pweb-grupo-2)
